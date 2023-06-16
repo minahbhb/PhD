@@ -1,0 +1,3 @@
+Defualt is weight initilization with the default of Keras
+Random is wight initilization with reich std
+Costumized is wight initilization with number of input and scale
